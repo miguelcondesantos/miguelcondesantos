@@ -6,5 +6,4 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelcondesantos&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
 </div>
 
-
-
+![Snake animation](https://github.com/miguelcondesantos/miguelcondesantos/blob/output/github-contribution-grid-snake.svg)
