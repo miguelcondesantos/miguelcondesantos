@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/HTML5-%238ec07c?style=flat-square&logo=html5&logoColor=%23fe8019&labelColor=%23504945&color=%23504945" height="30">
 <img src="https://img.shields.io/badge/CSS3-%238ec07c?style=flat-square&logo=css3&logoColor=%23fe8019&labelColor=%23504945&color=%23504945" height="30">
 <img src="https://img.shields.io/badge/Flask-%238ec07c?style=flat-square&logo=flask&logoColor=%23fe8019&labelColor=%23504945&color=%23504945" height="30">
+<img src="https://img.shields.io/badge/React-%238ec07c?style=flat-square&logo=react&logoColor=%23fe8019&labelColor=%23504945&color=%23504945" height="30">
 <img src="https://img.shields.io/badge/Node.js-%238ec07c?style=flat-square&logo=node.js&logoColor=%23fe8019&labelColor=%23504945&color=%23504945" height="30">
 <img src="https://img.shields.io/badge/MySQL-%238ec07c?style=flat-square&logo=MySQL&logoColor=%23fe8019&labelColor=%23504945&color=%23504945" height="30">
 <img src="https://img.shields.io/badge/Amazon AWS-%238ec07c?style=flat-square&logo=amazonaws&logoColor=%23fe8019&labelColor=%23504945&color=%23504945" height="30">
