@@ -28,7 +28,7 @@
 
 
 ## 🖇️Contacts
-<a href="https://www.linkedin.com/mypreferences/d/categories/profile-visibility" target="_blank"><img src="https://img.shields.io/badge/LikedIn-%238ec07c?style=flat-square&logo=linkedin&logoColor=%23fe8019&labelColor=%23504945&color=%23504945" height="30"></a>
+<a href="https://www.linkedin.com/in/miguel-conde-santos-a67313271/" target="_blank"><img src="https://img.shields.io/badge/LikedIn-%238ec07c?style=flat-square&logo=linkedin&logoColor=%23fe8019&labelColor=%23504945&color=%23504945" height="30"></a>
 <a href="mailto:miguelconde121004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%238ec07c?style=flat-square&logo=gmail&logoColor=%23fe8019&labelColor=%23504945&color=%23504945" height="30"></a>
 
 <hr>
